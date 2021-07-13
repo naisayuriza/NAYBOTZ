@@ -6,13 +6,13 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
+「 NAYBOTZ 」
 
 ╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
-├ https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
+├ https://chat.whatsapp.com/EoU10jL69O2BOVZvQMPG1D
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
@@ -58,7 +58,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Namae*
 ├ _Ex = .Namae udin_
 ├≽️ *.Alay*
-├ _Ex = .Alay hai udin_
+├ _Ex = .Alay hai rhis_
 ├≽️ *.Puisi1*
 ├≽️ *.Puisi2*
 ├≽️ *.Puisi3*
@@ -81,24 +81,24 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Arti (Namamu)*
 ├ _Ex = .Arti udin_
 ├≽️ *.Couple (Namamu & doi)*
-├ _Ex = .Couple udin & udan_
+├ _Ex = .Couple rhis & naisa_
 ├≽️ *.Getzodiak*
-├ _Ex : .Getzodiak udin & 09-09-2002_
+├ _Ex : .Getzodiak rhis & 18-10-2002_
 ├≽️ *.Zodiak (zodiak)*
 ├ _Ex : .Zodiak libra_
 ├≽️ *.Mimpi (teks)*
-├ _Ex : .Mimpi ular_
+├ _Ex : .Mimpi basah_
 ╰═══════════════
 
 ╭════•›「 TOOlS 」
 ├≽️ *.Stiker*
 ├ _Kirim foto ketik .stiker_
 ├≽️ *.Nulis*
-├ _Ex = .Nulis aku cinta udin_
+├ _Ex = .Nulis aku cinta naisa_
 ├≽️ *.Ocr*
 ├ _Mencopy kalimat di gambar_
 ├≽️ *.Stalk (username ig)*
-├ _Ex = .Stalk @udin_
+├ _Ex = .Stalk @naisaalifiayuriza_
 ├≽️ *.Shortlink (link)*
 ├ _Shorter link_
 ╰═══════════════
@@ -119,7 +119,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Wp*
 ├ _Random wallpaper_
 ├≽️ *.Img (nama yang dicari)*
-├ _Ex = .Img iqbal_
+├ _Ex = .Img naisa_
 ├≽️ *.Meme*
 ├ _Random foto lucu_
 ├≽️ *.bucin*
@@ -127,11 +127,11 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 ╭════•›「 TEXT 」
 ├≽️ *.Kata (quotes/author)*
-├ _Ex = .Kata Aku cinta dia/Udin_
+├ _Ex = .Kata Aku cinta dia/naisa_
 ├≽️ *.Logopornhub (teks1/teks2)*
-├ _Ex : .Logopornhub Udin/nime
+├ _Ex : .Logopornhub rhis/naisa
 ├≽️ *.Logoesport (teks)*
-├ _Ex : .Logoesport Udin_(❌)
+├ _Ex : .Logoesport naisa_(❌)
 ╰═══════════════
 
 ╭════•›「 EDUKASI 」
@@ -144,7 +144,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Wiki*
 ├ _Ex = .Wiki sejarah Indonesia_
 ├≽️ *.Sholat (Nama daerah)*
-├ _Ex = .Sholat Jakarta_
+├ _Ex = .Sholat Semarang_
 ├≽️ *.Covid*
 ├ _Info terkini covid indo_
 ├≽️ *.Fakta*
@@ -161,7 +161,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Infogempa*
 ├ _Random info gempa_
 ├≽️ *.Cuaca (nama daerah)*
-├ _Ex = .Cuaca Jakarta_
+├ _Ex = .Cuaca Semarang_
 ╰═══════════════
 
 ╭════•›「 OTHER 」
@@ -170,9 +170,9 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Jadwaltv (nama channel)*
 ├ _Ex = .Jadwaltv Rcti_
 ├≽️ *.Lirik*
-├ _Ex = .Lirik Anji - Dia_
+├ _Ex = .Lirik Naisa - TakkanMenyerah_
 ├≽️ *.Chord*
-├ _Ex = .Chord Anji - Dia_
+├ _Ex = .Chord Naisa - Takkanmenyerah_
 ├≽️ *.Map (nama daerah)*
 ├ _Mini map_
 ╰═══════════════
