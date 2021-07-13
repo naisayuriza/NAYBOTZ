@@ -15,14 +15,14 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'VVIPINDO BOT'; 
-const instagram = 'agus_alnsyh71- kaelMk_'; 
+const BotName = 'NAYBOTZ'; 
+const instagram = 'thenay.gariskeras- thenay.dark'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
+            + 'FN:Rhis\n' // Nama kamu
+            + 'ORG:NAYBOTZ;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6283830172470:+62 838-3017-2470\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
@@ -78,7 +78,7 @@ conn.on('user-presence-update', json => console.log(json.id + ' presence is => '
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@agus_aliansyah71`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@thenay.gariskeras`)
 })
 
 conn.on('message-new', async(m) =>
@@ -889,7 +889,7 @@ axios.get(`https://alfians-api.herokuapp.com/api/stalk?username=${sons}`).then (
     (ress) => {
     var buf = Buffer.from(ress, 'base64')
     conn.sendMessage(id, '[ WAIT ] Stalking⏳ silahkan tunggu', MessageType.text, { quoted: m } )
-    let hasil = `*>Username* : ${res.data.Username}\n*>Nama* : ${res.data.Name}\n*>Follower* : ${res.data.Jumlah_Followers}\n*>Following* : ${res.data.Jumlah_Following}\n*>Jumlah Post* : ${res.data.Jumlah_Post}\n*>Bio* : ${res.data.Biodata}\n\nFollow : https://www.instagram.com/agus.alnsyh71/`;
+    let hasil = `*>Username* : ${res.data.Username}\n*>Nama* : ${res.data.Name}\n*>Follower* : ${res.data.Jumlah_Followers}\n*>Following* : ${res.data.Jumlah_Following}\n*>Jumlah Post* : ${res.data.Jumlah_Post}\n*>Bio* : ${res.data.Biodata}\n\nFollow : https://www.instagram.com/thenay.gariskerasyh71/`;
     conn.sendMessage(id, buf ,MessageType.image, { caption: hasil, quoted: m } );
     })
 })
@@ -1328,7 +1328,7 @@ if (messageType === MessageType.text)
       }
 
    };
-//GroupVVIPBOT
+//GroupNAYBOTZ
 if (text.includes('.Group')){
 conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.text, {quoted: m});
 }
@@ -1337,7 +1337,7 @@ if (messageType === MessageType.text)
       let is = m.message.conversation.toLocaleLowerCase()
       if (is == '.Group')
       {
-         fetch('https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj')
+         fetch('https://chat.whatsapp.com/EoU10jL69O2BOVZvQMPG1D')
             .then(res => res.text())
             .then(body =>
             {
@@ -1451,6 +1451,6 @@ Silakan pilih :
 
 }
 //Hay gay
-//create @agusalnsyh don't delate this please
+//create @thenay.gariskeras don't delate this please
 	
 })
