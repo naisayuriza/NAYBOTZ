@@ -56,9 +56,9 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Infonime (nama anime)*
 ├ _.Infonime naruto_
 ├≽️ *.Namae*
-├ _Ex = .Namae udin_
+├ _Ex = .Namae naisa_
 ├≽️ *.Alay*
-├ _Ex = .Alay hai rhis_
+├ _Ex = .Alay hai naisa_
 ├≽️ *.Puisi1*
 ├≽️ *.Puisi2*
 ├≽️ *.Puisi3*
@@ -170,9 +170,9 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Jadwaltv (nama channel)*
 ├ _Ex = .Jadwaltv Rcti_
 ├≽️ *.Lirik*
-├ _Ex = .Lirik Naisa - TakkanMenyerah_
+├ _Ex = .Lirik naisa - TakkanMenyerah_
 ├≽️ *.Chord*
-├ _Ex = .Chord Naisa - Takkanmenyerah_
+├ _Ex = .Chord naisa - Takkanmenyerah_
 ├≽️ *.Map (nama daerah)*
 ├ _Mini map_
 ╰═══════════════
