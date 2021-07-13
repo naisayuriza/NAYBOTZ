@@ -1,5 +1,5 @@
 {
-  "name": "Agusbot",
+  "name": "NAYBOTZ",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgusAliansyah/vvipbot-wa"
+    "url": "git+https://github.com/naisayuriza/NAYBOTZ"
   },
   "keywords": [
     "K"
   ],
-  "author": "Agusbot",
+  "author": "NAYBOTZ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AgusAliansyah/vvipbot-wa/issues"
+    "url": "https://github.com/naisayuriza/NAYBOTZ/issues"
   },
-  "homepage": "https://github.com/AgusAliansyah/vvipbot-wa#readme"
+  "homepage": "https://github.com/naisayuriza/NAYBOTZ#readme"
 }
