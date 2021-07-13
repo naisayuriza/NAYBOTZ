@@ -1,24 +1,37 @@
-</p>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 𝕴'𝖒 𝕽𝖍𝖎𝖘𝖍𝖓𝖆
 <p align="center">
-<a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"><img title="AGUS BOT" src="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"></a>
-<p align="center">
-<a href="https://github.com/AgusAliansyah?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AgusAliansyah?color=blue&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/vvipbot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/vvipbot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AgusAliansyah/vvipbot-walabel=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgusAliansyah%2Fvvipbot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gg8pP4r/OIP.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>ᴊᴀɴɢᴀɴ ᴅɪᴀᴍʙɪʟ ɴᴀɴᴛɪ ᴀᴋᴜ ɴᴀɴɢɪꜱ ʟᴏ</a><br />
 </p>
+<br>
 
+
+
+<p align="center">
+<a href="#"><img title="ʀʜɪꜱʜɴᴀ" src="https://img.shields.io/badge/ʀʜɪꜱʜɴᴀ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/naisayuriza"><img title="ᴀᴜᴛʜᴏʀ" src="https://img.shields.io/badge/ᴀᴜᴛʜᴏʀ-ʀʜɪꜱʜɴᴀ-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+</p>
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
 <div align="center">
-   <a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"> "AGUS BOT" <a href="https://imgbb.com/"><img src="https://i.ibb.co/HNvqY6F/vvipindo-bot.jpg" alt="vvipindo-bot" border="0"></a>
-    <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
+<details>
+ 
+𝕹𝖆𝖎𝖘𝖆 𝕬𝖑𝖎𝖋𝖎𝖆 𝖄𝖚𝖗𝖎𝖟𝖆 𝕭𝖊𝖇 𝕶𝖚♡
 
-# Hai 👋🏻
+### 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓣𝓱𝓮𝓷𝓪𝔂 𝓖𝓪𝓻𝓲𝓼𝓴𝓮𝓻𝓪𝓼
 
-Re-upload numpang ganti nama gabakal bikin lu pro
+### WARNING
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
+
+## NOTE:> 
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
+<p align="center">
+
+</p>
 
 ## Give me Start ⭐ please
 
@@ -33,10 +46,8 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 * Instagram
 * Kapan Bot aktif
 * Apikey mhankbarbar
-* Apikey vhtear
-* Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/AgusAliansyah/vvipbot-wa/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/naisayuriza/NAYBOTZ/blob/master/index.js/#L13)
 
 
 ## Penginstalan
@@ -51,8 +62,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
-> cd vvipbot-wa
+> git clone https://github.com/naisayuriza/NAYBOTZ
+> cd NAYBOTZ
 ```
 Lanjutkan dengan
 ```bash
@@ -73,117 +84,6 @@ Jalankan bot
 ```
 Terakhir scan kode QR
 
-
-
-## FITUR
-
-| SIMSIMI |❌|
-| ------------- | ------------- |
-| Simsimi |❌|
-
-| FUN |Yes|
-| ------------- | ------------- |
-| Say|✅|
-| Nama ninja|❌|
-| Puisi|✅|
-| Cerpen|✅|
-| Tagme|✅|
-| Seberapa gay|✅|
-| Seberapa bucin|✅|
-| Chat prank|✔|
-| Font alay|✅|
-| Family 100|✅|
-| Kata kata receh|✅|
-| Status bapack|✅|
-| Gombal|✅|
-|BUCIN|✅|
-
-
-| PRIMBON |Yes|
-| ------------- | ------------- |
-| Arti nama|✅|
-| Kecocokan nama|✅|
-| Get zodiak|✅|
-| Zodiak|❌|
-
-| Game |✅|
-| ------------- | ------------- |
-| Tebak gambar|✅|
-| Family 100|❌|
-| Truth or dare|✅|
-| Kerang ajaib (apakah, bolehkah, kapan)|✅|
-
-
-| DOWNLOAD |Yes|
-| ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Instagram foto/video |✅|
-| Facebook video |✅|
-| Twitter video |✅|
-
-| TOOLS |Yes|
-| ------------- | ------------- |
-| Nulis|❌|
-| Stiker|✅|
-| OCR|✅|
-| Instagram stalker|✅|
-| Shortlink|✅|
-
-| PICTURE |Yes|
-| ------------- | ------------- |
-| Cecan|✅|
-| Cogan|✅|
-| Anime|✅|
-| Loli|✅|
-| Neko|✅|
-| Wallpaper|✅|
-| Quotes|✅|
-| Twitter|✅|
-| Meme|✅|
-| Img|✅|
-
-| TEXT |Yes|
-| ------------- | ------------- |
-| Quotes maker|✅|
-| Logo pornhub|✅|
-| Logo e-sport|❌|
-
-| EDUKASI |Yes|
-| ------------- | ------------- |
-| Al-Qur'an|✅|
-| Al-Qur'an per surah|✅|
-| Brainly|✅|
-| Wikipedia|✅|
-| Fakta|✅|
-| KBBI|✅|
-| Tanggal Nasional|✅|
-
-| WHEATER |Yes|
-| ------------- | ------------- |
-| Info BMKG |✅|
-| Info gempa |✅|
-| Info cuaca |✅|
-
-| Others |Yes|
-| ------------- | ------------- |
-| Jadwal tv|✅|
-| Jadwal tv (channel)|✅|
-| Jadwal sholat|✅|
-| Info Covid|✅|
-| Info anime|✅|
-| Lirik lagu|✅|
-| Chord lagu|✅|
-| Mini map|✅|
-
-| Groups |Yes|
-| ------------- | ------------- |
-| Merubah Nama grup|✅|
-| Merubah deskripsi grup|✅|
-| Menutup grup|✅|
-| Membuka grup|✅|
-| Ping|✅|
-| Owner|✅|
 
 ## Contacts
 * [Instagram](https://www.instagram.com/agus.alnsyh71)
