@@ -84,17 +84,18 @@ Jalankan bot
 ```
 Terakhir scan kode QR
 
-
 ## Contacts
-* [Instagram](https://www.instagram.com/agus.alnsyh71)
-* My whatsapp [Agus Aliansyah](https://wa.me/6289613469459)
+* [Instagram](https://www.instagram.com/thenay.gariskeras)
 
 
 ## Terimakasih untuk
-* [`Fdciabdul`](https://github.com/fdciabdul)
-* [`mrfzvx12`](https://github.com/mrfzvx12)
-* [`Aruga`](https://github.com/ArugaZ)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Alfiansx`](https://github.com/alfiansx)
-* [`Bintang73`](https://github.com/Bintang73)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`NAISAJUGA`](https://github.com/naisajuga)
+* [`NAISABOTZ`](https://github.com/naisabotz)
+* [`LINEBOTZ`](https://github.com/linebotz)
+* [`NAISAYURIZA`](https://github.com/naisayuriza)
+
+## 𝒩𝒶𝒾𝓈𝒶 𝒜𝓁𝒾𝒻𝒾𝒶 𝒴𝓊𝓇𝒾𝓏𝒶 
+  
+  
+  <img alt="GIF" src="https://media.giphy.com/media/BcGfOSdJrLyiP1c1O8/giphy.gif" width="980" />
